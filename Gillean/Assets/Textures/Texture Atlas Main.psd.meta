@@ -49,8 +49,8 @@ TextureImporter:
         y: 1887
         width: 382
         height: 150
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spikes
       rect:
@@ -109,8 +109,8 @@ TextureImporter:
         y: 1672
         width: 384
         height: 134
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Star
       rect:
@@ -275,10 +275,10 @@ TextureImporter:
     - name: dirtsmallerback
       rect:
         serializedVersion: 2
-        x: 1276
-        y: 0
-        width: 402
-        height: 199
+        x: 1280
+        y: 1
+        width: 384
+        height: 190
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
